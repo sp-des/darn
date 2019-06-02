@@ -2,6 +2,7 @@
 
 Prints a helpful message in the terminal for when you can't remember commands. (family friendly)
 
+![image of usage](https://github.com/sp-des/darn/blob/master/darn.png)
 
 ### Extremely helpful
 
