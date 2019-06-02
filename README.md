@@ -7,7 +7,7 @@ Prints a helpful message in the terminal for when you can't remember commands. (
 
 People all around the the world find this useful.
 
-> "This useful program helped me stay calm when i couldn't remember commands for the terminal. Good to see programmers programming > useful things again!" - Leonardo Da Vinci
+> "This useful program helped me stay calm when i couldn't remember commands for the terminal. Good to see programmers programming useful things again!" - Leonardo Da Vinci
 
 ### How to incorporate it into your life
 
