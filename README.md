@@ -16,3 +16,8 @@ People all around the the world find this useful.
 3. Now copy the software in the path, /usr/bin, like this: `cp darn /usr/bin/`
 
 You're all done! Now you can run this super helpful and realistic software by typing the script name! 
+
+
+### Documentation 
+
+Coming soon!
