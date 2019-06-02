@@ -43,7 +43,7 @@ If ‘|&’ is used, command1’s standard error, in addition to its standard ou
 
 The reserved word `time` causes timing statistics to be printed for the pipeline once it finishes. The statistics currently consist of elapsed (wall-clock) time and user and system time consumed by the command’s execution. The -p option changes the output format to that specified by POSIX. When the shell is in POSIX mode, it does not recognize `time` as a reserved word if the next token begins with a ‘-’. The `TIMEFORMAT` variable may be set to a format string that specifies how the timing information should be displayed. The use of `time` as a reserved word permits the timing of shell builtins, shell functions, and pipelines. An external time command cannot `time` these easily.
 
-When the shell is in POSIX mode (see Bash POSIX Mode), `time` may be followed by a newline. In this case, the shell displays the total user and system `time` consumed by the shell and its children. The `TIMEFORMAT` variable may be used to specify the format of the time information.
+When the shell is in POSIX mode, `time` may be followed by a newline. In this case, the shell displays the total user and system `time` consumed by the shell and its children. The `TIMEFORMAT` variable may be used to specify the format of the time information.
 
 If the pipeline is not executed asynchronously, the shell waits for all commands in the pipeline to complete.
 
